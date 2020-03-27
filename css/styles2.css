@@ -29,3 +29,10 @@ ul {
   line-height: 25px;
 }
 
+ol {
+  color: darkolivegreen;
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 25px;
+}
+
