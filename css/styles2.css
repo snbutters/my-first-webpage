@@ -1,36 +1,40 @@
+body {
+  background-color: rgb(148, 185, 219);
+}
+
 h1 {
-  color: darkolivegreen;
+  color: navy;
 }
 
 h2 {
-  color: darkolivegreen;
+  color: navy;
   font-family: sans-serif;
 }
 
 h3 {
-  color: darkolivegreen;
+  color: navy;
   font-family: sans-serif;
 }
 
 h4 {
-  color: darkolivegreen;
+  color: navy;
   font-family: sans-serif;
 }
 
 p {
-  color: darkolivegreen;
+  color: navy;
   font-family: sans-serif;
 }
 
 ul {
-  color: darkolivegreen;
+  color: navy;
   font-family: sans-serif;
   font-size: 16px;
   line-height: 25px;
 }
 
 ol {
-  color: darkolivegreen;
+  color: navy;
   font-family: sans-serif;
   font-size: 16px;
   line-height: 25px;
